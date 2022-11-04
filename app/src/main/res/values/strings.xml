@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidPersistencia</string>
+    <string name="introduce_texto">Introduce texto</string>
+    <string name="save">Save</string>
 </resources>
